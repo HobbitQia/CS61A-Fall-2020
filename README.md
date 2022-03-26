@@ -11,8 +11,6 @@ My solutions and experience for CS61A Fall 2020.
 
 1. 课程设计。国外优质的网课一般都有自己的网站，这门课也是如此。在笔者第一次进入网站时，就被眼花缭乱的资源震撼，有playlist, lecture, lab, discussion, homework, project, Q&A等等让你从学习知识到真正掌握知识。而且四个project中前三个都是做游戏，且为你写好了gui的图形化界面，在你每完成一个部分之后就可以打开游戏体验自己的成果，非常有成就感。
 
-   <img src="D:\User\桌面\CS61A Fall 2020.jpeg" alt="CS61A Fall 2020" style="zoom:50%;" />
-
 2. 课程的reading部分是经典教材***Structure and Interpretation of Computer Programs***，由John DeNero改编为[基于Python语言的SICP](http://composingprograms.com/)
 
 3. 采用ok本地测试。一般国外课程都会有gradescope来在线评测你的答案，这也导致许多优质的课程我们做了作业后并不能得到有效的反馈。但61A开发了一个ok的评测系统，对于作业你只需要按照他的提示就可以本地评测，大大便利了我们的学习。`python3 ok --local`
@@ -27,11 +25,9 @@ My solutions and experience for CS61A Fall 2020.
 
 2. 相关配置：笔者使用的是WSL，Ubuntu20.04，使用的IDE是VSCode。相比Windows下编程，个人更加喜欢Linux环境。不过各种配置，在lab0有超详细的指导让你从零开始，一步一步地配好61A所需要的环境。
 
-   <img src="C:\Users\HobbitQia\AppData\Roaming\Typora\typora-user-images\image-20220323135235911.png" alt="image-20220323135235911" style="zoom:50%;" />
-
 3. 学习顺序：笔者基本上是按照reading-playlist（lecture）-lab-disc-hw-q&a-project，按照每天的任务依次完成即可。
 
-   * 笔者认为reading是最精华的部分，可以看出教授改编经典教材是下了心思的。lecture可以用作补充，会有具体的代码示例，同时也会补充一些reading里没有的东西，而Q&A更多的是讨论上课/作业/往年考试的一些问题，也经常讨论一些有意思的话题。笔者记得在第六次课时Q&A下面已经有时间戳了，选择自己想看的问题即可。<img src="C:\Users\HobbitQia\AppData\Roaming\Typora\typora-user-images\image-20220323135539746.png" alt="image-20220323135539746" style="zoom:50%;" />
+   * 笔者认为reading是最精华的部分，可以看出教授改编经典教材是下了心思的。lecture可以用作补充，会有具体的代码示例，同时也会补充一些reading里没有的东西，而Q&A更多的是讨论上课/作业/往年考试的一些问题，也经常讨论一些有意思的话题。笔者记得在第六次课时Q&A下面已经有时间戳了，选择自己想看的问题即可
    * lab, disc, project，最好是都要做完，其中20fa的disc还是用pdf，要做的话只能自己写在纸上或者LaTeX编写（可惜笔者当时不会LaTeX），21年就有可以在线提交的方式了。此外project是最重要的锻炼自己的方式，上千行的start code，十几个子问题，能让你在实践中巩固所学。顺带一提，第四个project是用python写一个scheme的解释器，有前辈称61A3000刀，scheme这个project值2000刀，可见这个含金量是非常高的，虽然非常折磨（逃）
 
 ## 四、注意事项
